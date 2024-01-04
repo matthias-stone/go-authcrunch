@@ -1,4 +1,4 @@
-module github.com/greenpau/go-authcrunch
+module github.com/matthias-stone/go-authcrunch
 
 go 1.20
 
