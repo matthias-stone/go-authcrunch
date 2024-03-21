@@ -21,11 +21,11 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/greenpau/go-authcrunch/pkg/authn/enums/operator"
-	"github.com/greenpau/go-authcrunch/pkg/identity"
-	"github.com/greenpau/go-authcrunch/pkg/ids"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/user"
+	"github.com/matthias-stone/go-authcrunch/pkg/authn/enums/operator"
+	"github.com/matthias-stone/go-authcrunch/pkg/identity"
+	"github.com/matthias-stone/go-authcrunch/pkg/ids"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/user"
 )
 
 func (p *Portal) handleHTTPGPGKeysSettings(

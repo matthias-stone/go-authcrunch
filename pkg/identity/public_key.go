@@ -26,10 +26,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/tagging"
-	"github.com/greenpau/go-authcrunch/pkg/util"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/tagging"
+	"github.com/matthias-stone/go-authcrunch/pkg/util"
 	"golang.org/x/crypto/openpgp"
 	"golang.org/x/crypto/ssh"
 )

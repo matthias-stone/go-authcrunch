@@ -18,10 +18,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/greenpau/go-authcrunch/internal/tests"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/util"
+	"github.com/matthias-stone/go-authcrunch/internal/tests"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/util"
 )
 
 func TestNewAPIKey(t *testing.T) {

@@ -20,8 +20,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	fileutil "github.com/greenpau/go-authcrunch/pkg/util/file"
-	logutil "github.com/greenpau/go-authcrunch/pkg/util/log"
+	fileutil "github.com/matthias-stone/go-authcrunch/pkg/util/file"
+	logutil "github.com/matthias-stone/go-authcrunch/pkg/util/log"
 	"go.uber.org/zap"
 )
 

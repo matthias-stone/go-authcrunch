@@ -15,7 +15,7 @@
 package identity
 
 import (
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
 	"testing"
 )
 

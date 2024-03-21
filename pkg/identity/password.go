@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
 	"golang.org/x/crypto/bcrypt"
 )
 

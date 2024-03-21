@@ -17,9 +17,9 @@ package ids
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/ids/ldap"
-	"github.com/greenpau/go-authcrunch/pkg/ids/local"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/ids/ldap"
+	"github.com/matthias-stone/go-authcrunch/pkg/ids/local"
 )
 
 // IdentityStoreConfig represents an identity store configuration.

@@ -19,7 +19,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
 )
 
 func validateAPIKeyInputForm(r *http.Request, rr *requests.Request) error {

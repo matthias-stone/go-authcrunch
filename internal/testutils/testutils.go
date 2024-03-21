@@ -17,10 +17,10 @@ package testutils
 import (
 	"context"
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/acl"
-	"github.com/greenpau/go-authcrunch/pkg/kms"
-	"github.com/greenpau/go-authcrunch/pkg/user"
-	logutil "github.com/greenpau/go-authcrunch/pkg/util/log"
+	"github.com/matthias-stone/go-authcrunch/pkg/acl"
+	"github.com/matthias-stone/go-authcrunch/pkg/kms"
+	"github.com/matthias-stone/go-authcrunch/pkg/user"
+	logutil "github.com/matthias-stone/go-authcrunch/pkg/util/log"
 
 	"net/http"
 	"time"

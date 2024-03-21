@@ -16,8 +16,8 @@ package handlers
 
 import (
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	addrutil "github.com/greenpau/go-authcrunch/pkg/util/addr"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
+	addrutil "github.com/matthias-stone/go-authcrunch/pkg/util/addr"
 	"html/template"
 	"net/http"
 	"net/url"

@@ -17,7 +17,7 @@ package oauth
 import (
 	"encoding/json"
 	"fmt"
-	cfgutil "github.com/greenpau/go-authcrunch/pkg/util/cfg"
+	cfgutil "github.com/matthias-stone/go-authcrunch/pkg/util/cfg"
 	"go.uber.org/zap"
 	"io/ioutil"
 	"net/http"

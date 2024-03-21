@@ -19,11 +19,11 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/greenpau/go-authcrunch/pkg/authn/enums/operator"
-	"github.com/greenpau/go-authcrunch/pkg/ids"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/tagging"
-	"github.com/greenpau/go-authcrunch/pkg/user"
+	"github.com/matthias-stone/go-authcrunch/pkg/authn/enums/operator"
+	"github.com/matthias-stone/go-authcrunch/pkg/ids"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/tagging"
+	"github.com/matthias-stone/go-authcrunch/pkg/user"
 )
 
 // AddUserAppMultiFactorVerifier adds app multi factor authenticator to user identity.

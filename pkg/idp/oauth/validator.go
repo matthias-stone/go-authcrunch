@@ -17,8 +17,8 @@ package oauth
 import (
 	"fmt"
 	jwtlib "github.com/golang-jwt/jwt/v4"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/kms"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/kms"
 	"strings"
 )
 

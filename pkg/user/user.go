@@ -17,9 +17,9 @@ package user
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	cfgutil "github.com/greenpau/go-authcrunch/pkg/util/cfg"
-	datautil "github.com/greenpau/go-authcrunch/pkg/util/data"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	cfgutil "github.com/matthias-stone/go-authcrunch/pkg/util/cfg"
+	datautil "github.com/matthias-stone/go-authcrunch/pkg/util/data"
 	"strings"
 	"time"
 )

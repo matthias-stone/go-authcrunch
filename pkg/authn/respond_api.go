@@ -16,8 +16,8 @@ package authn
 
 import (
 	"context"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	addrutil "github.com/greenpau/go-authcrunch/pkg/util/addr"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
+	addrutil "github.com/matthias-stone/go-authcrunch/pkg/util/addr"
 	"go.uber.org/zap"
 	"net/http"
 	"strings"

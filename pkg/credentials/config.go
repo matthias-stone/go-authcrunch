@@ -15,7 +15,7 @@
 package credentials
 
 import (
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
 )
 
 // Config represents a collection of various credentials.

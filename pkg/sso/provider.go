@@ -18,8 +18,8 @@ import (
 	"crypto/x509"
 	"encoding/json"
 	"encoding/pem"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	fileutil "github.com/greenpau/go-authcrunch/pkg/util/file"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	fileutil "github.com/matthias-stone/go-authcrunch/pkg/util/file"
 	"go.uber.org/zap"
 )
 

@@ -16,8 +16,8 @@ package authn
 
 import (
 	"context"
-	"github.com/greenpau/go-authcrunch/pkg/redirects"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/redirects"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
 	"go.uber.org/zap"
 	"net/http"
 	"path"

@@ -21,10 +21,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/greenpau/go-authcrunch/pkg/identity"
-	"github.com/greenpau/go-authcrunch/pkg/ids"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/user"
+	"github.com/matthias-stone/go-authcrunch/pkg/identity"
+	"github.com/matthias-stone/go-authcrunch/pkg/ids"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/user"
 )
 
 var gpgKeyRegexPattern1 = regexp.MustCompile(`^[-]{3,5}\s*BEGIN\sPGP\sPUBLIC\sKEY\sBLOCK[-]{3,5}\s*`)

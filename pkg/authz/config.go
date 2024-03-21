@@ -16,14 +16,14 @@ package authz
 
 import (
 	"context"
-	"github.com/greenpau/go-authcrunch/pkg/acl"
-	"github.com/greenpau/go-authcrunch/pkg/authproxy"
-	"github.com/greenpau/go-authcrunch/pkg/authz/bypass"
-	"github.com/greenpau/go-authcrunch/pkg/authz/injector"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/kms"
-	cfgutil "github.com/greenpau/go-authcrunch/pkg/util/cfg"
-	logutil "github.com/greenpau/go-authcrunch/pkg/util/log"
+	"github.com/matthias-stone/go-authcrunch/pkg/acl"
+	"github.com/matthias-stone/go-authcrunch/pkg/authproxy"
+	"github.com/matthias-stone/go-authcrunch/pkg/authz/bypass"
+	"github.com/matthias-stone/go-authcrunch/pkg/authz/injector"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/kms"
+	cfgutil "github.com/matthias-stone/go-authcrunch/pkg/util/cfg"
+	logutil "github.com/matthias-stone/go-authcrunch/pkg/util/log"
 	"strings"
 )
 

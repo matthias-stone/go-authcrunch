@@ -20,10 +20,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/greenpau/go-authcrunch/pkg/identity/qr"
-	"github.com/greenpau/go-authcrunch/pkg/ids"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/user"
+	"github.com/matthias-stone/go-authcrunch/pkg/identity/qr"
+	"github.com/matthias-stone/go-authcrunch/pkg/ids"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/user"
 )
 
 // FetchUserAppMultiFactorVerifierCode fetches app multi factor authenticator passcode.

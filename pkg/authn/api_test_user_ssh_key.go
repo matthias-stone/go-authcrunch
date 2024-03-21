@@ -20,10 +20,10 @@ import (
 	"net/http"
 	"regexp"
 
-	"github.com/greenpau/go-authcrunch/pkg/identity"
-	"github.com/greenpau/go-authcrunch/pkg/ids"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/user"
+	"github.com/matthias-stone/go-authcrunch/pkg/identity"
+	"github.com/matthias-stone/go-authcrunch/pkg/ids"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/user"
 )
 
 var sshKeyRegexPattern1 = regexp.MustCompile(`^ssh-[a-z]+\s*[A-z0-9\+\/\=\n]+\s*`)

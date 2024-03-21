@@ -15,9 +15,9 @@
 package registry
 
 import (
-	"github.com/greenpau/go-authcrunch/pkg/credentials"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/messaging"
+	"github.com/matthias-stone/go-authcrunch/pkg/credentials"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/messaging"
 )
 
 // UserRegistryConfig represents a common set of configuration settings for user registration

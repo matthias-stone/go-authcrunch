@@ -22,12 +22,12 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
 
 	"regexp"
 
-	"github.com/greenpau/go-authcrunch/pkg/user"
-	addrutil "github.com/greenpau/go-authcrunch/pkg/util/addr"
+	"github.com/matthias-stone/go-authcrunch/pkg/user"
+	addrutil "github.com/matthias-stone/go-authcrunch/pkg/util/addr"
 	"go.uber.org/zap"
 )
 

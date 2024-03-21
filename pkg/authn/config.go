@@ -17,15 +17,15 @@ package authn
 import (
 	"strings"
 
-	"github.com/greenpau/go-authcrunch/pkg/acl"
-	"github.com/greenpau/go-authcrunch/pkg/authn/cookie"
-	"github.com/greenpau/go-authcrunch/pkg/authn/transformer"
-	"github.com/greenpau/go-authcrunch/pkg/authn/ui"
-	"github.com/greenpau/go-authcrunch/pkg/authz/options"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/kms"
-	"github.com/greenpau/go-authcrunch/pkg/redirects"
-	cfgutil "github.com/greenpau/go-authcrunch/pkg/util/cfg"
+	"github.com/matthias-stone/go-authcrunch/pkg/acl"
+	"github.com/matthias-stone/go-authcrunch/pkg/authn/cookie"
+	"github.com/matthias-stone/go-authcrunch/pkg/authn/transformer"
+	"github.com/matthias-stone/go-authcrunch/pkg/authn/ui"
+	"github.com/matthias-stone/go-authcrunch/pkg/authz/options"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/kms"
+	"github.com/matthias-stone/go-authcrunch/pkg/redirects"
+	cfgutil "github.com/matthias-stone/go-authcrunch/pkg/util/cfg"
 )
 
 // PortalConfig represents Portal configuration.

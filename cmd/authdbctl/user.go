@@ -17,7 +17,7 @@ package main
 import (
 	"bytes"
 	"fmt"
-	fileutil "github.com/greenpau/go-authcrunch/pkg/util/file"
+	fileutil "github.com/matthias-stone/go-authcrunch/pkg/util/file"
 	"github.com/urfave/cli/v2"
 	"go.uber.org/zap"
 	"net/http"

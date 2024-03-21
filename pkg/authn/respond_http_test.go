@@ -16,10 +16,10 @@ package authn
 
 import (
 	"context"
-	"github.com/greenpau/go-authcrunch/internal/tests"
-	"github.com/greenpau/go-authcrunch/pkg/authn/cookie"
-	"github.com/greenpau/go-authcrunch/pkg/authn/ui"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/internal/tests"
+	"github.com/matthias-stone/go-authcrunch/pkg/authn/cookie"
+	"github.com/matthias-stone/go-authcrunch/pkg/authn/ui"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
 	"go.uber.org/zap"
 	"net/http"
 	"net/url"

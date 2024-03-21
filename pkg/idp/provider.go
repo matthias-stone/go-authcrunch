@@ -17,12 +17,12 @@ package idp
 import (
 	"encoding/json"
 	// "fmt"
-	"github.com/greenpau/go-authcrunch/pkg/authn/enums/operator"
-	"github.com/greenpau/go-authcrunch/pkg/authn/icons"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/idp/oauth"
-	"github.com/greenpau/go-authcrunch/pkg/idp/saml"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/authn/enums/operator"
+	"github.com/matthias-stone/go-authcrunch/pkg/authn/icons"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/idp/oauth"
+	"github.com/matthias-stone/go-authcrunch/pkg/idp/saml"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
 	"go.uber.org/zap"
 )
 

@@ -19,8 +19,8 @@ import (
 	"sync"
 
 	"github.com/google/uuid"
-	"github.com/greenpau/go-authcrunch/pkg/identity"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/identity"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
 	"go.uber.org/zap"
 )
 

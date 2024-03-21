@@ -18,8 +18,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
 )
 
 // UserMetadata is metadata associated with a user.

@@ -15,7 +15,7 @@
 package credentials
 
 import (
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
 )
 
 // Generic represents username and password credentials, with optional

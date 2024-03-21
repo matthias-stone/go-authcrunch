@@ -18,14 +18,14 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/greenpau/go-authcrunch/pkg/authn"
-	"github.com/greenpau/go-authcrunch/pkg/authproxy"
-	"github.com/greenpau/go-authcrunch/pkg/authz"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/idp"
-	"github.com/greenpau/go-authcrunch/pkg/ids"
-	"github.com/greenpau/go-authcrunch/pkg/registry"
-	"github.com/greenpau/go-authcrunch/pkg/sso"
+	"github.com/matthias-stone/go-authcrunch/pkg/authn"
+	"github.com/matthias-stone/go-authcrunch/pkg/authproxy"
+	"github.com/matthias-stone/go-authcrunch/pkg/authz"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/idp"
+	"github.com/matthias-stone/go-authcrunch/pkg/ids"
+	"github.com/matthias-stone/go-authcrunch/pkg/registry"
+	"github.com/matthias-stone/go-authcrunch/pkg/sso"
 	"go.uber.org/zap"
 )
 

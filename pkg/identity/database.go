@@ -24,10 +24,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/util"
-	fileutil "github.com/greenpau/go-authcrunch/pkg/util/file"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/util"
+	fileutil "github.com/matthias-stone/go-authcrunch/pkg/util/file"
 	"github.com/greenpau/versioned"
 )
 
@@ -62,7 +62,7 @@ var (
 func init() {
 	app = versioned.NewPackageManager("authdb")
 	app.Description = "authdb"
-	app.Documentation = "https://github.com/greenpau/go-authcrunch"
+	app.Documentation = "https://github.com/matthias-stone/go-authcrunch"
 	app.SetVersion(appVersion, "1.0.50")
 	app.SetGitBranch(gitBranch, "main")
 	app.SetGitCommit(gitCommit, "v1.0.49-3-g5faadfc")

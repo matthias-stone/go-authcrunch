@@ -17,7 +17,7 @@ package requests
 import (
 	"net/http"
 
-	"github.com/greenpau/go-authcrunch/pkg/tagging"
+	"github.com/matthias-stone/go-authcrunch/pkg/tagging"
 
 	"go.uber.org/zap"
 )

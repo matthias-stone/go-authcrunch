@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/greenpau/go-authcrunch/internal/tests"
+	"github.com/matthias-stone/go-authcrunch/internal/tests"
 )
 
 func TestExtractTags(t *testing.T) {

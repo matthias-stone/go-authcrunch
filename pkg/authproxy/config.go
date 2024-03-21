@@ -15,8 +15,8 @@
 package authproxy
 
 import (
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	cfgutil "github.com/greenpau/go-authcrunch/pkg/util/cfg"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	cfgutil "github.com/matthias-stone/go-authcrunch/pkg/util/cfg"
 	"strings"
 )
 

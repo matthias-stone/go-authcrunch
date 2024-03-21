@@ -17,9 +17,9 @@ package idp
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/idp/oauth"
-	"github.com/greenpau/go-authcrunch/pkg/idp/saml"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/idp/oauth"
+	"github.com/matthias-stone/go-authcrunch/pkg/idp/saml"
 )
 
 // IdentityProviderConfig represents an identity provider configuration.

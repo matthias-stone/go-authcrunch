@@ -18,7 +18,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
 )
 
 // RequestKind represents the type of SSO provider request.

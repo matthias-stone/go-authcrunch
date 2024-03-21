@@ -16,7 +16,7 @@ package cookie
 
 import (
 	"fmt"
-	"github.com/greenpau/go-authcrunch/internal/tests"
+	"github.com/matthias-stone/go-authcrunch/internal/tests"
 	"testing"
 )
 

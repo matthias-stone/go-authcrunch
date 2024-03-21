@@ -18,12 +18,12 @@ import (
 	"context"
 	"encoding/json"
 
-	// "github.com/greenpau/go-authcrunch/pkg/identity"
+	// "github.com/matthias-stone/go-authcrunch/pkg/identity"
 	"net/http"
 	"time"
 
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/user"
+	"github.com/matthias-stone/go-authcrunch/pkg/requests"
+	"github.com/matthias-stone/go-authcrunch/pkg/user"
 )
 
 func (p *Portal) handleAPIListUsers(_ context.Context, w http.ResponseWriter, _ *http.Request, rr *requests.Request, _ *user.User) error {

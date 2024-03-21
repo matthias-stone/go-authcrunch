@@ -16,7 +16,7 @@ package addr
 
 import (
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/waf"
+	"github.com/matthias-stone/go-authcrunch/pkg/waf"
 	"net/http"
 	"strings"
 )

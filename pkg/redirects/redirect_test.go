@@ -19,7 +19,7 @@ import (
 
 	"testing"
 
-	"github.com/greenpau/go-authcrunch/internal/tests"
+	"github.com/matthias-stone/go-authcrunch/internal/tests"
 )
 
 func TestNewRedirectURIMatchConfig(t *testing.T) {

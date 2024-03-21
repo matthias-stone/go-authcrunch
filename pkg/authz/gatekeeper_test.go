@@ -16,12 +16,12 @@ package authz
 
 import (
 	"github.com/google/go-cmp/cmp"
-	"github.com/greenpau/go-authcrunch/internal/tests"
-	"github.com/greenpau/go-authcrunch/pkg/acl"
-	"github.com/greenpau/go-authcrunch/pkg/authz/bypass"
-	"github.com/greenpau/go-authcrunch/pkg/authz/injector"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	logutil "github.com/greenpau/go-authcrunch/pkg/util/log"
+	"github.com/matthias-stone/go-authcrunch/internal/tests"
+	"github.com/matthias-stone/go-authcrunch/pkg/acl"
+	"github.com/matthias-stone/go-authcrunch/pkg/authz/bypass"
+	"github.com/matthias-stone/go-authcrunch/pkg/authz/injector"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	logutil "github.com/matthias-stone/go-authcrunch/pkg/util/log"
 	"go.uber.org/zap"
 	"testing"
 )

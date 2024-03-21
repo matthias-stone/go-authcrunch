@@ -18,7 +18,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
 )
 
 var emailRegex *regexp.Regexp

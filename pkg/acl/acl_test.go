@@ -18,9 +18,9 @@ import (
 	"context"
 	"fmt"
 	"github.com/google/go-cmp/cmp"
-	"github.com/greenpau/go-authcrunch/internal/tests"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	logutil "github.com/greenpau/go-authcrunch/pkg/util/log"
+	"github.com/matthias-stone/go-authcrunch/internal/tests"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	logutil "github.com/matthias-stone/go-authcrunch/pkg/util/log"
 	"testing"
 	"time"
 )

@@ -16,8 +16,8 @@ package saml
 
 import (
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/authn/icons"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/matthias-stone/go-authcrunch/pkg/authn/icons"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
 )
 
 // Config holds the configuration for the IdentityProvider.
